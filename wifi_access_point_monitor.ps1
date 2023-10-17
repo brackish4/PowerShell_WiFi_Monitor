@@ -6,7 +6,7 @@
 # The script can be customized to: 
 #   - Check for AP changes at specified intervals.
 #   - Push a custom pop-up notification in Windows.
-#   - Create a JSON file with each AP and signal strength with a timestamp.
+#   - Create a JSON file with each recorded AP and signal strength with a timestamp.
 
 # Initialize $results to hold information on AP and changes. 
 $results = @()
